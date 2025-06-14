@@ -1,0 +1,15 @@
+{
+  "BaseSkin": false,
+  "PerkLevel": 0,
+  "SkinGO": "skinenforcer",
+  "SkinID": "enforcerbase",
+  "SkinName": "Enforcer",
+  "SkinOrder": 0,
+  "SkinSubclass": "paladin",
+  "Sku": "",
+  "SpritePortrait": "enforcerPortrait",
+  "SpritePortraitGrande": "enforcerPortraitGrande",
+  "SpriteSilueta": "enforcerSilueta",
+  "SpriteSiluetaGrande": "enforcerSiluetaGrande",
+  "SteamStat": ""
+}
